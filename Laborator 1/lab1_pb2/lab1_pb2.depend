@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696343183 source:e:\faculta\an2_sem1\af_lab\lab1_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
