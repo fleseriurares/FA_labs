@@ -1,8 +1,0 @@
-﻿  Laborator_4.cpp
-E:\Faculta\AN2_SEM1\AF_lab\Laborator 4\Laborator_4\Laborator_4.cpp(251,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating code
-  5 of 756 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Laborator_4.vcxproj -> E:\Faculta\AN2_SEM1\AF_lab\Laborator 4\Laborator_4\Release\Laborator_4.exe
