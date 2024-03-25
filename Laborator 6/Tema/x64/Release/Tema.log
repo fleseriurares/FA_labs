@@ -1,0 +1,25 @@
+﻿  Tema.cpp
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(192,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(378,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(429,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(478,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(514,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(552,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(588,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(629,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(633,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(637,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(642,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(646,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(650,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(656,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(658,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(668,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(669,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\Tema.cpp(279,10): warning C4101: 'string': unreferenced local variable
+  Generating code
+  425 of 428 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    405 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tema.vcxproj -> E:\Faculta\AN2_SEM1\AF_lab\Laborator 6\Tema\x64\Release\Tema.exe
