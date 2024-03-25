@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 14\ConsoleApplication1\Profiler.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'ConsoleApplication1.cpp')
+  E:\Faculta\AN2_SEM1\AF_lab\Laborator 14\ConsoleApplication1\Profiler.h(9,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  ConsoleApplication1.vcxproj -> E:\Faculta\AN2_SEM1\AF_lab\Laborator 14\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
