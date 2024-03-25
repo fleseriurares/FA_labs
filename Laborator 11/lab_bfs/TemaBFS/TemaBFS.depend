@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1575038868 source:e:\faculta\an2_sem1\af_lab\laborator 11\lab_bfs\bfs.cpp
+	<stdlib.h>
+	<string.h>
+	"bfs.h"
+
+1574953299 e:\faculta\an2_sem1\af_lab\laborator 11\lab_bfs\bfs.h
+	"Profiler.h"
+
+1570449873 e:\faculta\an2_sem1\af_lab\laborator 11\lab_bfs\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1575031594 source:e:\faculta\an2_sem1\af_lab\laborator 11\lab_bfs\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<string>
+	<windows.h>
+	<unistd.h>
+	"bfs.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707249805 source:e:\faculta\an2_sem1\af_lab\laborator 11\lab_bfs\pbinfo\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
