@@ -1,0 +1,4 @@
+﻿  Tema.cpp
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\Tema.cpp(120,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\Tema.cpp(155,13): warning C4101: 'x': unreferenced local variable
+  Tema.vcxproj -> E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\x64\Debug\Tema.exe

@@ -1,0 +1,9 @@
+﻿  Tema.cpp
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\Tema.cpp(193,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\Tema.cpp(241,13): warning C4101: 'x': unreferenced local variable
+  Generating code
+  2 of 638 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tema.vcxproj -> E:\Faculta\AN2_SEM1\AF_lab\Laborator 5\Tema\x64\Release\Tema.exe
